@@ -252,9 +252,9 @@ HOST-SUFFIX,icbcstandard.com,Bank
 HOST-SUFFIX,icbcstandardbank.com,Bank
 HOST-SUFFIX,icbcstandardresources.com,Bank
 HOST-SUFFIX,icbcstandardsecurities.com,Bank
-HOST-SUFFIX,icbcswiss.com,Banks
+HOST-SUFFIX,icbcswiss.com,Bank
 HOST-SUFFIX,icbcthai.com,Bank
-HOST-SUFFIX,icbkfs.com,Banks
+HOST-SUFFIX,icbkfs.com,Bank
 HOST-SUFFIX,icbkus.com,Bank
 
 # NAME: PSBC
@@ -263,6 +263,6 @@ HOST-SUFFIX,icbkus.com,Bank
 # UPDATED: 2023-07-20 23:23:24
 # HOST-SUFFIX: 3
 # TOTAL: 3
-HOST-SUFFIX,95580.net,Banks
-HOST-SUFFIX,psbc.com,Banks
-HOST-SUFFIX,psbcoa.com.cn,Banks
+HOST-SUFFIX,95580.net,Bank
+HOST-SUFFIX,psbc.com,Bank
+HOST-SUFFIX,psbcoa.com.cn,Bank

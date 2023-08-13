@@ -1,0 +1,268 @@
+# NAME: ABC
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-07-20 23:23:16
+# HOST-SUFFIX: 10
+# TOTAL: 10
+HOST-SUFFIX,95599.cn,Bank
+HOST-SUFFIX,abc-studios.com,Bank
+HOST-SUFFIX,abc.com,Bank
+HOST-SUFFIX,abchina.com,Bank
+HOST-SUFFIX,bscabank.com,Bank
+HOST-SUFFIX,edgedatg.com,Bank
+HOST-SUFFIX,go.com,Bank
+HOST-SUFFIX,openaboc.cn,Bank
+HOST-SUFFIX,openaboc.com,Bank
+HOST-SUFFIX,openaboc.com.cn,Bank
+
+# NAME: BOC
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-07-20 23:23:16
+# HOST-SUFFIX: 22
+# TOTAL: 22
+HOST-SUFFIX,bank-of-china.com,Bank
+HOST-SUFFIX,bankofchina.com,Bank
+HOST-SUFFIX,boc.cn,Bank
+HOST-SUFFIX,bocamchina.com,Bank
+HOST-SUFFIX,bocaviation.com,Bank
+HOST-SUFFIX,boccfc.cc,Bank
+HOST-SUFFIX,boccfc.cn,Bank
+HOST-SUFFIX,bocfullertonbank.com,Bank
+HOST-SUFFIX,bocgi.com,Bank
+HOST-SUFFIX,bocgins.com,Bank
+HOST-SUFFIX,bochk.com,Bank
+HOST-SUFFIX,bochkonline.com,Bank
+HOST-SUFFIX,bocichina.cn,Bank
+HOST-SUFFIX,bocichina.com,Bank
+HOST-SUFFIX,bocichina.com.cn,Bank
+HOST-SUFFIX,bocifunds.cn,Bank
+HOST-SUFFIX,bocifunds.com,Bank
+HOST-SUFFIX,bocifunds.com.cn,Bank
+HOST-SUFFIX,bocigroup.com,Bank
+HOST-SUFFIX,bocim.com,Bank
+HOST-SUFFIX,bocservices.com.cn,Bank
+HOST-SUFFIX,ftcwifi.com,Bank
+
+# NAME: BOCOM
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-07-20 23:23:16
+# HOST-SUFFIX: 6
+# TOTAL: 6
+HOST-SUFFIX,95559.com.cn,Bank
+HOST-SUFFIX,95559.sh.cn,Bank
+HOST-SUFFIX,bankcomm.com,Bank
+HOST-SUFFIX,bankcomm.com.au,Bank
+HOST-SUFFIX,bankcomm.com.mo,Bank
+HOST-SUFFIX,bankcomm.com.tw,Bank
+
+# NAME: CCB
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-07-20 23:23:17
+# HOST-SUFFIX: 18
+# TOTAL: 18
+HOST-SUFFIX,ccb-life.com.cn,Bank
+HOST-SUFFIX,ccb.cn,Bank
+HOST-SUFFIX,ccb.com,Bank
+HOST-SUFFIX,ccb.com.cn,Bank
+HOST-SUFFIX,ccbcos.com,Bank
+HOST-SUFFIX,ccbfund.cn,Bank
+HOST-SUFFIX,ccbfund.com,Bank
+HOST-SUFFIX,ccbfund.com.cn,Bank
+HOST-SUFFIX,ccbfutures.cn,Bank
+HOST-SUFFIX,ccbfutures.com,Bank
+HOST-SUFFIX,ccbhome.cn,Bank
+HOST-SUFFIX,ccbhome.net,Bank
+HOST-SUFFIX,ccbintl.com.hk,Bank
+HOST-SUFFIX,ccbleasing.com,Bank
+HOST-SUFFIX,ccblife-test.com.cn,Bank
+HOST-SUFFIX,ccbseoul.com,Bank
+HOST-SUFFIX,ccbtrust.com.cn,Bank
+HOST-SUFFIX,ccbxt.com,Bank
+
+# NAME: CEB
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-07-20 23:23:17
+# HOST-SUFFIX: 15
+# TOTAL: 15
+HOST-SUFFIX,cebbank.com,Bank
+HOST-SUFFIX,ceblease.com,Bank
+HOST-SUFFIX,eb-ind.com,Bank
+HOST-SUFFIX,ebasset.com,Bank
+HOST-SUFFIX,ebchina.com,Bank
+HOST-SUFFIX,ebchinaintl.com,Bank
+HOST-SUFFIX,ebf.com.cn,Bank
+HOST-SUFFIX,ebfcn.com,Bank
+HOST-SUFFIX,ebfortune.com,Bank
+HOST-SUFFIX,ebscn-am.com,Bank
+HOST-SUFFIX,ebscn.com,Bank
+HOST-SUFFIX,ebtrust.com,Bank
+HOST-SUFFIX,everbright.com,Bank
+HOST-SUFFIX,secec.com,Bank
+HOST-SUFFIX,sunlife-everbright.com,Bank
+
+# NAME: CGB
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-07-20 23:23:17
+# HOST-SUFFIX: 4
+# TOTAL: 4
+HOST-SUFFIX,95508.com,Bank
+HOST-SUFFIX,cgbchina.cn,Bank
+HOST-SUFFIX,cgbchina.com.cn,Bank
+HOST-SUFFIX,gdb.com.cn,Bank
+
+# NAME: CITIC
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-07-20 23:23:17
+# HOST-SUFFIX: 25
+# TOTAL: 25
+HOST-SUFFIX,chinaamc.com,Bank
+HOST-SUFFIX,citic,Bank
+HOST-SUFFIX,citic-prudential.com.cn,Bank
+HOST-SUFFIX,citic.com,Bank
+HOST-SUFFIX,citicbank.cn,Bank
+HOST-SUFFIX,citicbank.com,Bank
+HOST-SUFFIX,citicbank.com.cn,Bank
+HOST-SUFFIX,citicbank.net,Bank
+HOST-SUFFIX,citicbank.net.cn,Bank
+HOST-SUFFIX,citicbank.org,Bank
+HOST-SUFFIX,citicbank.org.cn,Bank
+HOST-SUFFIX,citiccapital.com,Bank
+HOST-SUFFIX,citicgroup.com.cn,Bank
+HOST-SUFFIX,citiciam.com,Bank
+HOST-SUFFIX,citicifh.com,Bank
+HOST-SUFFIX,citicprufunds.com.cn,Bank
+HOST-SUFFIX,citics.com,Bank
+HOST-SUFFIX,citics.com.hk,Bank
+HOST-SUFFIX,citicsf.com,Bank
+HOST-SUFFIX,clsa.com,Bank
+HOST-SUFFIX,cncbinternational.com,Bank
+HOST-SUFFIX,csc108.com,Bank
+HOST-SUFFIX,csci.hk,Bank
+HOST-SUFFIX,ecitic.com,Bank
+HOST-SUFFIX,ecitic.net,Bank
+
+# NAME: CMB
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-07-20 23:23:17
+# HOST-SUFFIX: 38
+# TOTAL: 38
+HOST-SUFFIX,8008205555.cn,Bank
+HOST-SUFFIX,8008205555.com,Bank
+HOST-SUFFIX,bbf.org.cn,Bank
+HOST-SUFFIX,bjsbnet.com,Bank
+HOST-SUFFIX,chndoi.cn,Bank
+HOST-SUFFIX,chndoi.com,Bank
+HOST-SUFFIX,chndoi.com.cn,Bank
+HOST-SUFFIX,chndoi.net,Bank
+HOST-SUFFIX,chndoi.org,Bank
+HOST-SUFFIX,cignacmb-ipmi.com,Bank
+HOST-SUFFIX,cignacmb.com,Bank
+HOST-SUFFIX,cignacmbamc.com,Bank
+HOST-SUFFIX,cmb-leasing.com,Bank
+HOST-SUFFIX,cmbchina.biz,Bank
+HOST-SUFFIX,cmbchina.cn,Bank
+HOST-SUFFIX,cmbchina.com,Bank
+HOST-SUFFIX,cmbi.com.hk,Bank
+HOST-SUFFIX,cmbimg.cn,Bank
+HOST-SUFFIX,cmbimg.com,Bank
+HOST-SUFFIX,cmbt.cn,Bank
+HOST-SUFFIX,cmbuat.com,Bank
+HOST-SUFFIX,cmburl.cn,Bank
+HOST-SUFFIX,cmbwinglungbank.com,Bank
+HOST-SUFFIX,cmf.biz,Bank
+HOST-SUFFIX,cmf.ltd,Bank
+HOST-SUFFIX,cmfchina.com,Bank
+HOST-SUFFIX,cmfunds.cn,Bank
+HOST-SUFFIX,cnki.net,Bank
+HOST-SUFFIX,cnkidoi.cn,Bank
+HOST-SUFFIX,cnkidoi.com,Bank
+HOST-SUFFIX,cnkidoi.net,Bank
+HOST-SUFFIX,cnkidoi.org,Bank
+HOST-SUFFIX,test-cignacmb.com,Bank
+HOST-SUFFIX,wuxizazhi.cn,Bank
+HOST-SUFFIX,wuxizazhi.com,Bank
+HOST-SUFFIX,wuxizazhi.com.cn,Bank
+HOST-SUFFIX,wuxizazhi.net,Bank
+HOST-SUFFIX,wuxizazhi.net.cn,Bank
+
+# NAME: ICBC
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-07-20 23:23:21
+# HOST-SUFFIX: 58
+# TOTAL: 58
+HOST-SUFFIX,95588.com,Bank
+HOST-SUFFIX,95588.com.cn,Bank
+HOST-SUFFIX,dccnet.com.cn,Bank
+HOST-SUFFIX,icbc,Bank
+HOST-SUFFIX,icbc-at.com,Bank
+HOST-SUFFIX,icbc-cz.com,Bank
+HOST-SUFFIX,icbc-ltd.com,Bank
+HOST-SUFFIX,icbc-uk.com,Bank
+HOST-SUFFIX,icbc-us.com,Bank
+HOST-SUFFIX,icbc.ae,Bank
+HOST-SUFFIX,icbc.be,Bank
+HOST-SUFFIX,icbc.co.id,Bank
+HOST-SUFFIX,icbc.co.jp,Bank
+HOST-SUFFIX,icbc.co.kr,Bank
+HOST-SUFFIX,icbc.co.nl,Bank
+HOST-SUFFIX,icbc.com.au,Bank
+HOST-SUFFIX,icbc.com.cn,Bank
+HOST-SUFFIX,icbc.com.es,Bank
+HOST-SUFFIX,icbc.com.kh,Bank
+HOST-SUFFIX,icbc.com.kw,Bank
+HOST-SUFFIX,icbc.com.la,Bank
+HOST-SUFFIX,icbc.com.mm,Bank
+HOST-SUFFIX,icbc.com.mo,Bank
+HOST-SUFFIX,icbc.com.mx,Bank
+HOST-SUFFIX,icbc.com.pe,Bank
+HOST-SUFFIX,icbc.com.pk,Bank
+HOST-SUFFIX,icbc.com.qa,Bank
+HOST-SUFFIX,icbc.com.sg,Bank
+HOST-SUFFIX,icbc.com.vn,Bank
+HOST-SUFFIX,icbc.de,Bank
+HOST-SUFFIX,icbc.eu,Bank
+HOST-SUFFIX,icbc.lu,Bank
+HOST-SUFFIX,icbcalmaty.kz,Bank
+HOST-SUFFIX,icbcasia.com,Bank
+HOST-SUFFIX,icbcbr.com.br,Bank
+HOST-SUFFIX,icbccs.com.cn,Bank
+HOST-SUFFIX,icbccstz.com.cn,Bank
+HOST-SUFFIX,icbci.com.hk,Bank
+HOST-SUFFIX,icbcina.com,Bank
+HOST-SUFFIX,icbcindia.com,Bank
+HOST-SUFFIX,icbcit.com,Bank
+HOST-SUFFIX,icbclondon.com,Bank
+HOST-SUFFIX,icbcmanila.com.cn,Bank
+HOST-SUFFIX,icbcme.ae,Bank
+HOST-SUFFIX,icbcmoscow.ru,Bank
+HOST-SUFFIX,icbcmy.com,Bank
+HOST-SUFFIX,icbcnz.com,Bank
+HOST-SUFFIX,icbcpanama.com,Bank
+HOST-SUFFIX,icbcparis.fr,Bank
+HOST-SUFFIX,icbcpl.com,Bank
+HOST-SUFFIX,icbcstandard.com,Bank
+HOST-SUFFIX,icbcstandardbank.com,Bank
+HOST-SUFFIX,icbcstandardresources.com,Bank
+HOST-SUFFIX,icbcstandardsecurities.com,Bank
+HOST-SUFFIX,icbcswiss.com,Banks
+HOST-SUFFIX,icbcthai.com,Bank
+HOST-SUFFIX,icbkfs.com,Banks
+HOST-SUFFIX,icbkus.com,Bank
+
+# NAME: PSBC
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-07-20 23:23:24
+# HOST-SUFFIX: 3
+# TOTAL: 3
+HOST-SUFFIX,95580.net,Banks
+HOST-SUFFIX,psbc.com,Banks
+HOST-SUFFIX,psbcoa.com.cn,Banks
